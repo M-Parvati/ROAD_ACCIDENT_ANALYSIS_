@@ -45,7 +45,9 @@ so that they can have Insights on below requirements –
 
 • Total casualties and total accidents by location.
 
-# STAKEHOLDERS : • Ministry of transport
+# STAKEHOLDERS : 
+
+• Ministry of transport
 
 • Road transport department
 
