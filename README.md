@@ -2,7 +2,7 @@
 POWER BI -based road accident data report to gain meaningful insights.
 
 
-STEPS IN PROJECT :
+# STEPS IN PROJECT :
 
 Requirement gathering
 
@@ -26,7 +26,7 @@ Report / dashboard building
 
 Insights
 
-REQUIREMENT :
+# REQUIREMENT :
 
 Clients wants to create a ROAD ACCIDENT dashboard for year 2021 and 2022 
 so that they can have Insights on below requirements –
@@ -45,7 +45,7 @@ so that they can have Insights on below requirements –
 
 • Total casualties and total accidents by location.
 
-STAKEHOLDERS : • Ministry of transport
+# STAKEHOLDERS : • Ministry of transport
 
 • Road transport department
 
@@ -63,7 +63,7 @@ STAKEHOLDERS : • Ministry of transport
 
 • Media
 
-POWER BI FUNCTIONALITIES :
+# POWER BI FUNCTIONALITIES :
 
 • How to connect to raw data / flat file.
 
@@ -85,16 +85,14 @@ POWER BI FUNCTIONALITIES :
 
 • Creating different charts and generating insights.
 
-INSIGHTS :
+# INSIGHTS :
 
 • The worsening trend of road accidents and fatalities demands immediate attention and 
 intervention in road safety measures.
 
-• Fatal accidents remain a major contributor to casualties.Focused safety interventions
-are needed in high-risk areas to reduce fatalities.
+• Fatal accidents remain a major contributor to casualties.
 
-• Two-wheelers continue to be highly vulnerable, requiring specific road safety measures
-for riders.
+• Two-wheelers continue to be highly vulnerable.
 
 • Seasonal factors such as festivals, vacations, and adverse weather conditions may 
 contribute to higher accident rates during these months.
@@ -102,22 +100,16 @@ contribute to higher accident rates during these months.
 • Road design improvements, including better speed regulation and road safety features, are critical 
 on highways to prevent fatalities.
 
-• Increased road patrols and better lighting during nighttime hours could help reduce accident rates.
-
-• Urban areas with high traffic density, such as City X, require more targeted interventions,
-including public awareness and improved road infrastructure.
-
 • Some areas may have fewer accidents, but their severity is disproportionately high. 
-These locations require in-depth analysis and targeted interventions.
 
 • The 8.5% increase in accidents and 10.2% rise in casualties between 2021 and 2022 reflect worsening 
 road safety trends, signaling the need for comprehensive safety reforms and initiatives.
 
 • Accidents involving heavy vehicles are more likely to occur during nighttime hours, possibly due to 
-fatigue and visibility issues. Further investigation and preventive measures are recommended.
+fatigue and visibility issues. 
 
 
-Actionable Recommendations -
+# Actionable Recommendations -
 
 • Implement Focused Safety Measures in high-risk zones (e.g., City X, highways).
 
@@ -133,7 +125,7 @@ management during peak months (June, December).
 rest breaks for drivers of heavy vehicles at night.
 
 
-Conclusion :
+# Conclusion :
 
 • This report reveals several critical trends and insights from the road accident data 
 of 2021 and 2022.
@@ -143,7 +135,7 @@ effective road safety strategies can be developed to reduce accidents and fatali
 the coming years.
 
 
-Visualizations :
+# Visualizations :
 
 • KPI Visuals: Display total accidents, casualties, and YOY growth using KPI visuals.
 
