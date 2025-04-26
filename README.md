@@ -104,9 +104,6 @@ on highways to prevent fatalities.
 
 • Some areas may have fewer accidents, but their severity is disproportionately high. 
 
-• The 8.5% increase in accidents and 10.2% rise in casualties between 2021 and 2022 reflect worsening 
-road safety trends, signaling the need for comprehensive safety reforms and initiatives.
-
 • Accidents involving heavy vehicles are more likely to occur during nighttime hours, possibly due to 
 fatigue and visibility issues. 
 
@@ -139,8 +136,8 @@ the coming years.
 
 # Visualizations :
 
-• KPI Visuals: Display total accidents, casualties, and YOY growth using KPI visuals.
+• KPI Visuals: Displayed total accidents, casualties, and YOY growth using KPI visuals.
 
-• Trend Charts: Use line charts to show accident trends over time, with filters for vehicle type and road type.
+• Trend Charts: Used line charts to show accident trends over time, with filters for vehicle type and road type.
 
-• Heatmaps/Maps: Display accident hotspots using location-based maps, highlighting areas with high accident and casualty rates.
+• Heatmaps/Maps: Displayed accident hotspots using location-based maps, highlighting areas with high accident and casualty rates.
